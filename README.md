@@ -41,5 +41,7 @@ These photos will be updated as needed.
 Here you can see the CPU PCB, this one with integral WiFi antenna.
 ![20210201_201527](https://user-images.githubusercontent.com/24881873/109878732-43a89080-7c3a-11eb-93bf-5517d89ac186.jpg)
 
+This is browser window of the control. It is very small and can be left open beside your logging software. This software version is alive and working now.
+![RF Switch op page](https://user-images.githubusercontent.com/24881873/109885652-81121b80-7c44-11eb-8628-c905c2b63c45.jpg)
 
 
